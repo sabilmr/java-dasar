@@ -2,7 +2,7 @@ package soal13logic;
 
 import java.util.Scanner;
 
-public class Soal13b {
+public class  Soal13b {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Masukan angka n :");
